@@ -34,14 +34,14 @@ In parts of the course, we will also cover scientific papers in the fields of ti
 
 | Course week | Week of year | Topics and readings                                                                         |
 |:-----------:|:------------:|:--------------------------------------------------------------------------------------------|
-| 1           | 6            | Introduction, basics of data science (Bishop 1.1, 1.2.{1,2})                                |
-| 2           | 7            | Model fitting/selection, curse of dimensionality (Bishop 1.2.{3-6}, 1.{3,4})                |
-| 3           | 8            | Decision theory and information theory (Bishop 1.{5,6})                                     |
-| 4           | 9            | Sequential inputs: modelling and cognition (introduction)                                   |
-| 5           | 10           | Sequential inputs: learning rates, moving average, exponential smoothing, the Kalman filter |
-| 6           | 11           | Hierarchical Gaussian filtering: introduction                                               |
-| 7           | 12           | Hierarchical Gaussian filtering: applications 1                                             |
-| 8           | 13           | Hierarchical Gaussian filtering: applications 2                                             |
+| 1           | 6            | Introduction, basics of data science, probability theory (Bishop 1.1, 1.2.{1,2})            |
+| 2           | 7            | Probability theory/distributions/densities, Gaussians, model fitting (Bishop 1.2.{3-6})     |
+| 3           | 8            | Model fitting/selection, curse of dimensionality (Bishop 1.{3,4})                           |
+| 4           | 9            | Decision theory and information theory (Bishop 1.{5,6})                                     |
+| 5           | 10           | Sequential inputs: modelling and cognition (introduction)                                   |
+| 6           | 11           | Sequential inputs: learning rates, moving average, exponential smoothing, the Kalman filter |
+| 7           | 12           | Hierarchical Gaussian filtering: introduction                                               |
+| 8           | 13           | Hierarchical Gaussian filtering: applications                                               |
 | 9           | 16           | Hierarchical Gaussian filtering: implementations and practical challenges                   |
 | 10          | 17           | Forecasting: Time series graphics and decomposition (FPP3 1-4)                              |
 | 11          | 19           | Forecasting: Regression, exponential smoothing (FPP3 7,8)                                   |
