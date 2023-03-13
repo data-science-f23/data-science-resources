@@ -76,14 +76,17 @@ The format is very simple: **you choose a dataset, analyze it using current data
 
 As specified in the [course description](https://kursuskatalog.au.dk/en/course/114897/Data-Science-Prediction-and-Forecasting), ordinary examination and re-examination are as follows:
 
-The examination consists of an individual take-home assignment on a topic of the student’s choice and a related practical product.
+The examination consists of a take-home assignment on a topic of the student’s choice and a related practical product.
 
-The scope and nature of the product must be relevant in relation to the content of the course and is subject to the approval of the teacher. It must be possible to submit the product digitally in a documented form which can be accessed by the supervisor and co-examiner. The product must be accompanied by a take-home assignment on a topic of the student’s choice, in which the student explains the relevance and methodological and theoretical basis of the product. Assessment is based on an overall assessment of the take-home assignment and the practical product.
+The assignment can be written individually or in groups of up to 4 students. Group assignments must be written in such a way that the contribution of each student, except for the introduction, thesis statement and conclusion, can form the basis of individual assessment. The assignment should clearly state which student is responsible for which section.
 
-The assignment can be written individually or in groups of up to 3 students. Group assignments must be written in such a way that the contribution of each student, except for the introduction, thesis statement and conclusion, can form the basis of individual assessment. The assignment should clearly state which student is responsible for which section.
+Length for one student: 10-12 standard pages
+Length for two students: 17-22 standard pages
+Length for three students: 24-32 standard pages
+Length for four students: 31-42 standard pages
 
-- Length for one student: 10-15 standard pages
-- Length for two students: 15-20 standard pages
-- Length for three students: 20-25 standard pages
+The scope and nature of the product must be relevant in relation to the content of the course and is subject to the approval of the teacher. It must be possible to submit the product digitally in a documented form which can be accessed by the examiner and co-examiner.
 
-The take-home assignment must be handed in for assessment in the Digital Exam system by the date specified in the [exam plan](https://studerende.au.dk/en/studies/subject-portals/arts/exams/exam-timetables-faculty-of-arts/147102-cognitive-science).
+The product must be accompanied by a take-home assignment on a topic of the student’s choice, in which the student explains the relevance and methodological and theoretical basis of the product.
+
+The assignment and the product must be submitted for assessment in the Digital Exam system before the deadline set in the [examination plan](https://studerende.au.dk/en/studies/subject-portals/arts/exams/exam-timetables-faculty-of-arts/147102-cognitive-science). Assessment is based on an overall assessment of the take-home assignment and the practical product.
